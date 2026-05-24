@@ -8,10 +8,8 @@
 
 ## FSM Diagram
 
-> 다이어그램 첨부 예정
-
 <!--
-![FSM Diagram](./images/fsm-diagram.png)
+<img width="1184" height="1528" alt="Component 99" src="https://github.com/user-attachments/assets/b3c5b69c-e518-4468-a377-14ac41daacb8" />
 -->
 
 ## 주요 기능
